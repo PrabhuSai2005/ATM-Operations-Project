@@ -12,3 +12,4 @@
 // UI improvements 
 // Login UI 
 // Authentication logic 
+// Validation improvements 
